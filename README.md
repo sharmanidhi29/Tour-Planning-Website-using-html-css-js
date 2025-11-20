@@ -1,9 +1,9 @@
-# 🧭 Tour Planning Website
+# Tour Planning Website
 
 A responsive and interactive **Tour Planning Web Application** built with **HTML, CSS, Bootstrap, and JavaScript**.
 This project allows users to explore destinations, create an itinerary, save plans locally, and simulate trip bookings — all in one clean and modern interface.
 
-## 🚀 Features
+## Features
 
 * **Responsive UI** using Bootstrap 5
 * **Destination search & filter** (by type: beach, mountain, city)
@@ -26,13 +26,13 @@ This project allows users to explore destinations, create an itinerary, save pla
 * **JavaScript (Vanilla)**
 * **Bootstrap Icons**
 
-## 📂 How to Run
+## How to Run
 
 Just download or clone the repository and open `index.html` in any modern web browser.
 
 No additional setup needed.
 
-## 💡 Future Enhancements (Ideas)
+## Future Enhancements (Ideas)
 
 * Backend integration for real bookings
 * User authentication & saved itineraries
