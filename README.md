@@ -19,7 +19,7 @@ This project allows users to explore destinations, create an itinerary, save pla
 * Clean, accessible design with focus states
 * Fully functional in a single HTML file (no backend required)
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 * **HTML5**
 * **CSS3 + Bootstrap 5**
